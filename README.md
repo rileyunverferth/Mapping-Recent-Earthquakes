@@ -4,11 +4,11 @@ This challenge incorporates Leaflet to plot recent earthquakes on a map, and sho
 
 ### How frequent are earthquakes?
 ![Earthquakes](https://github.com/rileyunverferth/leaflet-challenge/blob/main/Starter_Code/Images/6-Time_Keeps_On_Ticking.gif?raw=true)
-<br><br>The USGS collects massive amounts of data from all over the world each day, but it can be difficult to view that data in a meaningful way. We're going to create a map that shows that data, and plots in on a map where the earthquake occured.
+<br><br>The USGS collects massive amounts of data on earthquakes from all over the world each day, but it can be difficult to view that data in a meaningful way. We're going to create a map that shows that data, and plots in on a map where the earthquake occured.
 
 ### United States Geological Survey
 ![USGS Logo](https://github.com/rileyunverferth/leaflet-challenge/blob/main/Starter_Code/Images/1-Logo.png?raw=true)
-<br>On the [USGS website](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) you can monitor data the data they record, and view it in a JSON file. Their feeds include data from the past hour, day, week, or month. The website also gives you a preview of the keys they use for their data. <br>
+<br>On the [USGS website](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) you can monitor data the data they record, and view it in a JSON file. Their feeds include data from the past hour, day, week, or month. The website also gives you a preview of the keys they use for their JSON files. <br>
 
 ### USGS GeoJSON Feed
 ![Website](https://github.com/rileyunverferth/leaflet-challenge/blob/main/Starter_Code/Images/3-Data.png?raw=true)
