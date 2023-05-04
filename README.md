@@ -22,6 +22,6 @@ This challenge incorporates Leaflet to plot recent earthquakes on a map, and sho
 <br>On the map is also a legend to show how to read the depth of the earthquake by color. Some of the code to make the legend, both in the js file and the css file, is from the example that is given on the [Leaflet website](https://leafletjs.com/examples/choropleth/).
 ### End Result
 ![Map](https://github.com/rileyunverferth/leaflet-challenge/blob/main/Starter_Code/Images/2-BasicMap.png)
-<br><br>While this image lacks a legend, this map will look generally like this. The center was chosen to highlight the cluster of earthquakes that occurs in the western part of the continental United States, but feel free to roam around or zoom in or out to get different views!
+<br><br>The center was chosen to highlight the cluster of earthquakes that occurs in the western part of the continental United States, but feel free to roam around or zoom in or out to get different views!
 
 ## Thank you for reading.
