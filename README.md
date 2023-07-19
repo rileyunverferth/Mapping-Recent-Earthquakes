@@ -1,5 +1,5 @@
-# leaflet-challenge
-## Module 15 Challenge
+# Mapping Recent Earthquakes
+## Module 15 Challenge (Leaflet)
 This challenge incorporates Leaflet to plot recent earthquakes on a map, and show their depth and magnitude.
 
 ### How frequent are earthquakes?
